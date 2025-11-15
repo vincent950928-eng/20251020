@@ -53,7 +53,7 @@ function draw() {
     
     // 1. 繪製左上角文字
     textAlign(LEFT, TOP);
-    text('1234567', 10, 10);
+    text('414730969', 10, 10);
     
     // 2. 繪製右上角得分
     textAlign(RIGHT, TOP);
